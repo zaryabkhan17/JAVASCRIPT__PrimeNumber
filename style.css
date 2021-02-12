@@ -1,0 +1,17 @@
+input{
+    background: linear-gradient(rgb(236, 120, 120),yellow);
+    
+    color: black;
+    
+}
+
+
+body{
+    background: linear-gradient(to right, rgb(73, 104, 45), yellow);
+    color: aliceblue;
+    text-align: center;
+}
+h2{
+    color: blue;
+    font-family: algerian;
+}
